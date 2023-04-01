@@ -1,0 +1,14 @@
+
+    {
+        "id":1,
+        "name": "John Doe",
+        "address":"2 mokola street",
+        "status":false,
+        "title":"Men's clothings",
+        "price":350,
+        "oderId":23456789070707,
+        "quantity":5
+    }  
+
+
+
